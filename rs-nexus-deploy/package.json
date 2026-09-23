@@ -1,0 +1,10 @@
+{
+  "name": "rs-nexus",
+  "version": "0.1.0",
+  "private": true,
+  "description": "RS Nexus — Global Trade CRM & Business Intelligence (prototype). Static single-file app, no build step.",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "start": "npx serve ."
+  }
+}
